@@ -3,6 +3,7 @@
 
 # LOVENet: Large Optimized Vector Embeddings Network for Drug Repurposing
 
+This codebase provides a implementation for the paper LOVENet: Large Optimized Vector Embeddings Network for Drug Repurposing at NeurIPS 2023 Workshop.
 ## Project Overview
 A new framework maximizing the synergistic effects of knowledge graphs and large language models (LLMs) to discover novel therapeutic uses for pre-existing drugs. Specifically, our approach fuses information from pairs of embedding from Llama2 and heterogeneous knowledge graphs to reveal complex relations between drugs and diseases. 
 
