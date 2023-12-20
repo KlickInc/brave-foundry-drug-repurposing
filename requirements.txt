@@ -147,7 +147,7 @@ torchsummary==1.5.1
 tornado==6.3.3
 tqdm==4.66.1
 traitlets==5.9.0
-transformers==4.30.2
+transformers==4.36.0
 triton==2.0.0
 trl==0.4.7
 typing_extensions==4.7.1
